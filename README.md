@@ -3,10 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
-💡 **Passionate about:** Game Development, Software Engineering, and Full-Stack Development  
-🎯 **Currently Learning:** Advanced Algorithms, SQL, and System Design  
+💡 **Passionate about:** Game Development, Software Engineering, and Full-Stack Development   
 🚀 **Aspiring to:** Pursue a Master's in Game Development  
-💬 **Ask me about:** Unity, C++, C#, React, and Problem Solving  
+💬 **Ask me about:** Unity, C#, Problem Solving  
 📫 **How to reach me:** **saveesharma4@gmail.com**  
 ⚡ **Fun Fact:** "A bug-free code is a myth, but a well-debugged one is a masterpiece!"  
 
@@ -32,7 +31,7 @@
 
 ## 🛠️ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,nodejs,unity,python,git,html,css,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=c,c#,unity,python,git" />
 </p>
 
 ---
